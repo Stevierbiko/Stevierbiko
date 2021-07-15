@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stevierbiko I design and code beautifully simple things, and I love what I do.
+- 👋 Hi, I’m @Stevierbiko I design and build beautifully simple things, and I love what I do.
 - 👀 I’m interested inbuilding simple UI, Web Apps
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on building UI WEB and APPS
