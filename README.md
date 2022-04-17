@@ -2,7 +2,7 @@
 - 👀 I’m interested inbuilding simple UI, Web and WebApps
 - 🌱 I’m currently learning Javascript and Angular
 - 💞️ I’m looking to collaborate on building UI WEB and APPS
-- 📫 How to reach me; you can call me direclty through +254727122931 or email me @ stevierbiko@gmail.com
+- 📫 How to reach me; you can email me @ stevierbiko@gmail.com
 
 <!---
 Stevierbiko/Stevierbiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
